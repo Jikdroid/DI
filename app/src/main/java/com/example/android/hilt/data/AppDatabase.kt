@@ -18,6 +18,7 @@ package com.example.android.hilt.data
 
 import androidx.room.Database
 import androidx.room.RoomDatabase
+import javax.inject.Singleton
 
 /**
  * SQLite Database for storing the logs.
